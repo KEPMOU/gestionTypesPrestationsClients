@@ -1,0 +1,9 @@
+1 Décompresser Le Dossier
+
+2 Copier Le Dossier Dans Le Repertoire Web
+
+3 Créer La Base de Données bdd_gestiontypeprestations
+
+4 Lancer Le Navigateur Et Lancer http://localhost/gestionTypesPrestation/
+
+5 Se Connecter Avec Les Mots de Passe
